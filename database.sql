@@ -1,0 +1,30 @@
+#create table Admin(user_id varchar(50) primary key  ,Name varchar(50),Password varchar(50) , Contact varchar(10) );
+#select*from admin;
+#insert into admin values ('bavly@123','Bavly Hany','2422005','0128548647');
+#select*from admin;
+#insert into admin values ('Bassant@26','Bassant Sarea','122006','0120272396');
+#insert into admin values ('amira@34','Amira Tamer','1552005','0155115111');
+#insert into admin values ('Aya@78','Aya Nasser','872005','0155115111');
+#select*from admin;
+#create table BOOKS(book_id varchar(5) primary key  ,category varchar(50),author varchar(50) , Copies varchar(10) );
+#select*from books;
+#drop table books;
+#create table BOOKS(book_id varchar(5) primary key  ,category varchar(50),Name varchar(50),author varchar(50) , Copies varchar(10) );
+#select*from books;
+#insert into books values ('B001','datastructure','algorithmes','marten hans' ,'10');
+#insert into books values ('B002','java','head first java','kathy sierra' ,'15');
+#insert into books values ('B003','novel','the great gatpsy ','f.scott' ,'5');
+#insert into books values('B004','MYSQl','Murachs mysql','Joe Murach','5');
+#insert into books values('B005','Geography','prisoners','Tim','7');
+#insert into books values('B006','comic','the secreet life','Bavly','15');
+#insert into books values('B007','science','cosmos','Amera','20');
+#insert into books values('B008','Biology','Concept of bilogy','Bassant','14');
+#select*from books;
+#create table staffs(staff_id varchar(5)primary key ,Name varchar(50),contact varchar(10));
+#select*from staffs;
+#insert into staffs values('s001','Bavly','0128548647');
+#insert into staffs values('s002','Bassant','0120272396');
+#insert into staffs values('s003','Amira','0155115111');
+#insert into staffs values('s004','Aya','0109566323');
+
+
